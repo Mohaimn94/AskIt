@@ -1,0 +1,22 @@
+.post{
+    width:auto;
+    padding: 5px;
+    border: 2px solid orange;
+    border-radius: 12px;
+    margin: 5px 10px;
+}
+.post h4{
+    padding-left: 10px;
+}
+.post p{
+    padding-left: 10px;
+}
+.post h6{
+    padding-left: 10px;
+}
+.post img{
+    padding-right: 10px;
+}
+
+
+

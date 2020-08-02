@@ -1,0 +1,43 @@
+[
+    {
+        "id": 0,
+        "postTitle": "Post 1",
+        "postContent": "How to register a course?",
+        "postDate": "12-12-12",
+        "postTime": "12:24",
+        "postAuthor": "Farnoosh",
+        "postLikes":"3",
+        "postDislikes":"0"
+
+    },
+    {
+        "id": 1,
+        "postTitle": "Post 2",
+        "postContent": "How to de-register a course?",
+        "postDate": "13-12-12",
+        "postTime": "12:50",
+        "postAuthor": "Mohaymen",
+        "postLikes":"5",
+        "postDislikes":"1"
+    },
+    {
+        "id": 2,
+        "postTitle": "Post 3",
+        "postContent": "How to write an exam?",
+        "postDate": "14-12-12",
+        "postTime": "01:25",
+        "postAuthor": "Aali",
+        "postLikes":"9",
+        "postDislikes":"2"
+    },
+    {
+        "id": 3,
+        "postTitle": "Post 4",
+        "postContent": "How to make a ChatBot?",
+        "postDate": "12-12-20",
+        "postTime": "01:45",
+        "postAuthor": "Hasan",
+        "postLikes":"3",
+        "postDislikes":"5"
+    }
+]

@@ -1,0 +1,17 @@
+.coursesList {
+    position: relative;
+    right: 10px;
+    width: auto;
+    border: 2px solid #033859;
+    padding: 10px;
+    text-align: center;
+    margin-right: 15px;
+    border-radius: 10px;
+  }
+.course{
+  padding-bottom: 2px;
+  font-size: medium;
+}
+.border{
+  top: 23px;
+}

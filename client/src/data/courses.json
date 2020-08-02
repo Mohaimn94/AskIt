@@ -1,0 +1,23 @@
+[
+    {
+        "id":0,
+        "name":"Information Retrieval"
+    },
+    {
+        "id":1,
+        "name":"Peer-to-Peer Systeme"
+    },
+    {
+        "id":2,
+        "name":"Information Mining"
+    },
+    {
+        "id":3,
+        "name":"Distributed Systems"
+    },
+    {
+        "id":4,
+        "name":"Interactive Systems"
+    }
+
+]

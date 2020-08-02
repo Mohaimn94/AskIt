@@ -1,0 +1,123 @@
+[
+    {
+        "postId": 0,
+        "postContent": "Does anyone know the Banking problem?",
+        "postCourse": "Distributed Systems",
+        "author": "Mohaymen",
+        "date": "12-12-12",
+        "time": "12:24",
+        "likes": 3,
+        "dislikes": 0,
+        "replies": [
+            {
+                "replyId": 0,
+                "replyContent": "Just google it and you can find it.",
+                "author": "Chris",
+                "date": "12-12-12",
+                "time": "12:26"
+            }
+        ]
+    },
+    {
+        "postId": 1,
+        "postContent": "Does anyone have the past papers of DS?",
+        "postCourse": "Distributed Systems",
+        "author": "Ali",
+        "date": "13-12-20",
+        "time": "12:50",
+        "likes": 5,
+        "dislikes": 0,
+        "replies": [
+            {
+                "replyId": 0,
+                "replyContent": "I can email you if you want.",
+                "author": "David",
+                "date": "14-12-20",
+                "time": "12:00"
+            }
+        ]
+    },
+    {
+        "postId": 2,
+        "postCourse": "Information Retrieval",
+        "postContent": "How can I make a ChatBot?",
+        "author": "Hasan",
+        "date": "12-07-2020",
+        "time": "01:30",
+        "likes": 10,
+        "dislikes": 0,
+        "replies": [
+            {
+                "replyId": 0,
+                "replyContent": "Just google it and you can find it.",
+                "author": "Chris",
+                "date": "12-07-2020",
+                "time": "12:26"
+            }
+        ]
+    },
+    {
+        "postId": 3,
+        "postContent": "What are the chances of the exam be oral?",
+        "postCourse": "Information Retrieval",
+        "author": "Ali",
+        "date": "13-12-20",
+        "time": "12:50",
+        "likes": 5,
+        "dislikes": 0,
+        "replies": [
+            {
+                "replyId": 0,
+                "replyContent": "You can ask the student assistant on email, or check portal",
+                "author": "David",
+                "date": "14-12-20",
+                "time": "12:00"
+            }
+        ]
+    },
+    {
+        "postId": 4,
+        "postContent": "How can I make a ChatBot?",
+        "postCourse": "Information Mining",
+        "author": "Hasan",
+        "date": "12-07-2020",
+        "time": "01:30",
+        "likes": 10,
+        "dislikes": 0,
+        "replies": [
+            {
+                "replyId": 0,
+                "replyContent": "Just google it and you can find it.",
+                "author": "Chris",
+                "date": "12-07-2020",
+                "time": "12:26"
+            },
+            {
+                "replyId": 1,
+                "replyContent": "Just google it and you can find it.",
+                "author": "Aali",
+                "date": "12-07-2020",
+                "time": "12:26"
+            }
+        ]
+    },
+    {
+        "postId": 5,
+        "postContent": "What are the benifits of taking this course",
+        "postCourse": "Information Mining",
+        "author": "Ali",
+        "date": "13-12-20",
+        "time": "12:50",
+        "likes": 5,
+        "dislikes": 0,
+        "replies": [
+            {
+                "replyId": 0,
+                "replyContent": "Look around, the benifits are around you.",
+                "author": "Micheal",
+                "date": "14-12-20",
+                "time": "12:00"
+            }
+        ]
+    }
+]
