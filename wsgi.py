@@ -1,2 +1,2 @@
-from backend import app
+from backend.mongo import app
 app=app
