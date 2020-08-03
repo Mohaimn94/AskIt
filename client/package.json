@@ -2,9 +2,9 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "engines":{
+  "engines": {
     "node": "12.18.1",
-    "npm":"6.14.5"
+    "npm": "6.14.5"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.29",
